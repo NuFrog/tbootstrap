@@ -1,0 +1,19 @@
+body {
+  background: #8a8a8a;
+}
+header {
+  background: #4e4e4e;
+  max-height: 200px;
+  text-align: center;
+}
+header h1 {
+  color: var(--light);
+  font-size: 35px;
+  font-weight: 900;
+  line-height: 50px;
+  margin: 0px;
+  padding: 10px;
+}
+a {
+  color: #444477;
+}
